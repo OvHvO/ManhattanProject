@@ -431,7 +431,7 @@ header ul li a:hover{
 	white-space: nowrap;
 	font-size: 1.15em;
 	height: 50px;
-	width: 600px;
+	width: 960px;
 	border-style: none;
 	transform: translateY(1540px);
 }
@@ -442,7 +442,7 @@ header ul li a:hover{
 
 .sec3 table#head10 td{
 	padding: 5px;
-	padding-left: 10px;
+	text-align: center
 }
 
 .sec3 table#head10 th, td{
